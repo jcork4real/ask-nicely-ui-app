@@ -1,2 +1,2 @@
 # ask-nicely-ui-app
-Retrieve feedback from customer UI
+Retrieve feedback from customer UI in React.
